@@ -1,4 +1,7 @@
 [
   "obsidian42-brat",
-  "i18n"
+  "i18n",
+  "breadcrumbs",
+  "highlightr-plugin",
+  "obsidian-git"
 ]
