@@ -40,9 +40,9 @@ $e^z \cdot e^w = \sum_{k=0}^{\infty} \left( \sum_{i=0}^{k} \frac{z^i}{i!} \cdot 
 让我们把内部求和单独拿出来分析：
 $\sum_{i=0}^{k} \frac{z^i}{i!} \cdot \frac{w^{k-i}}{(k-i)!}$
 
-这个形式看起来是不是有点眼熟？它非常像**二项式定理 (Binomial Theorem)** 的展开式。我们回忆一下二项式定理：
+这个形式看起来是不是有点眼熟？它非常像==**二项式定理 (Binomial Theorem)**== 的展开式。我们回忆一下二项式定理：
 $(z+w)^k = \sum_{i=0}^{k} \binom{k}{i} z^i w^{k-i}$
-其中，二项式系数 (binomial coefficient) $\binom{k}{i} = \frac{k!}{i!(k-i)!}$。
+其中，==二项式系数 (binomial coefficient)== $\binom{k}{i} = \frac{k!}{i!(k-i)!}$。
 
 比较一下，我们发现我们的表达式里分母是 $i!(k-i)!$，正好是二项式系数的一部分，但是**缺少了一个分子 $k!$**。
 

@@ -1,12 +1,6 @@
 {
-  "showLineNumber": false,
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
+  "newFileLocation": "current",
+  "attachmentFolderPath": "图片"
 }

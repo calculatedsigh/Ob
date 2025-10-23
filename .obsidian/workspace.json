@@ -1,62 +1,23 @@
 {
   "main": {
-    "id": "623104f0daf42235",
+    "id": "2471c00da04129f1",
     "type": "split",
     "children": [
       {
-        "id": "9a511d314168962e",
+        "id": "eae753ab9e7eb604",
         "type": "tabs",
         "children": [
           {
-            "id": "c891955946c50917",
+            "id": "fec71f168e923983",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "219/Analytic funct..md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 3.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Analytic funct."
-            }
-          },
-          {
-            "id": "4986595bb6ee192c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "219/Cauchy product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cauchy product"
-            }
-          },
-          {
-            "id": "e25e8f4f72b914bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "4446e56e6c283419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "219/Curve.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curve"
+              "icon": "lucide-table",
+              "title": "未命名 3"
             }
           }
         ]
@@ -65,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68c35c96df843cc8",
+    "id": "130c9931c63662b8",
     "type": "split",
     "children": [
       {
-        "id": "143e06782ad399fe",
+        "id": "12d250a2d89372e2",
         "type": "tabs",
         "children": [
           {
-            "id": "35aaaa0a3bcccdba",
+            "id": "f4899b5910b472c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,7 +47,7 @@
             }
           },
           {
-            "id": "8db98f62f04e0a1c",
+            "id": "2e2064f56a7a7165",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +64,7 @@
             }
           },
           {
-            "id": "31e6dc96639386cc",
+            "id": "1bc2bf5c9fd21a4c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bb17ed68d156a37e",
+    "id": "3bd8ad6131fd1bd8",
     "type": "split",
     "children": [
       {
-        "id": "e5bb1fc7a2aed345",
+        "id": "725cb64d33618a18",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d886790120f383",
+            "id": "6f49db92b04d661a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Git 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
-            "id": "1f2a1cd165142f84",
+            "id": "5a387d539527ba1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Git 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
-            "id": "c7a4f5b357589887",
+            "id": "7bdc221a9d3d10b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,210 +136,26 @@
             }
           },
           {
-            "id": "ab832d9f303fa79b",
+            "id": "2efe5d4a318dba0d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md",
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
-            }
-          },
-          {
-            "id": "e6354e92281847de",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "79228a40ee071ec7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "6367e935b99ca86c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "301636f0acb6a424",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "4bfeb20a0b027c15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "ed8a9425182fff3c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "83369c37dd29f025",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "29263dd0535c1403",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "77ea1f56ccdfcce7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "6b6fa0cbf111664c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "e2c1d5bdbf96b3cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "1ade9081f22074ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "630562a5384cfcec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "03bd5dd0cc6099b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "14866a903ca4fd81",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "11700fad57176219",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "b6d57b62da6d4257",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
-            "id": "aa9ad4de508780d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "未命名 的大纲"
             }
           }
-        ],
-        "currentTab": 21
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,78 +165,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "floating": {
-    "id": "d141c3c1454dc0a5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "56276b92df3ebc01",
-        "type": "window",
-        "children": [
-          {
-            "id": "fdda5df51fa04fff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "373f369ce6167f98",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI",
-                    "title": "Obsidian URI - Obsidian Help",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian URI - Obsidian Help"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 33,
-        "width": 1470,
-        "height": 923,
-        "maximize": false,
-        "zoom": 3
-      }
-    ]
-  },
-  "active": "c891955946c50917",
+  "active": "fec71f168e923983",
   "lastOpenFiles": [
-    "219/幂级数.md",
-    "独立与不相关.md",
-    "未命名.md",
-    "Git.md",
-    "latex 语法.md",
-    "2025-10-14.md",
-    "219/Limit.md",
-    "219/Cauchy product.md",
-    "e的乘法.md",
-    "219/Analytic funct..md",
-    "219/Unbounded funct..md",
-    "219/Conv. Seq. & Series.md",
-    "219/Curve.md",
-    "219/connected.md",
+    "未命名 2.base",
+    "未命名 3.base",
     "未命名 1.base",
-    "欢迎.md",
-    "不知道/latex 语法.md",
-    "不知道/Git.md",
-    "不知道",
-    "219",
-    "limit.md",
     "未命名.base",
-    "创建链接.md",
-    "草稿纸.md",
-    "未命名.canvas"
+    "图片/截屏2025-10-23 00.52.42.png",
+    "图片/截屏2025-10-23 00.51.54.png",
+    "图片/截屏2025-10-23 00.49.16.png",
+    "图片/PixPin_2025-10-23_00-50-25.png",
+    "图片/PixPin_2025-10-23_00-50-25 1.png",
+    "图片",
+    "206/lipschitz和解的uniqueness.md",
+    "206/泊松分布随机变量之和.md",
+    "206",
+    "212/验算.md",
+    "212/积分收敛与发散.md",
+    "212",
+    "不知道/latex 语法.md",
+    "不知道",
+    "219/connected/connected.md",
+    "219/connected/Simply connected.md",
+    "219/Curve/Curve.md",
+    "219/Curve/Unbounded funct..md",
+    "219/Analytic funct./Partial derivatives.md",
+    "219/Analytic funct./Analytic funct..md",
+    "219/CIT/Green's theorem.md",
+    "219/CIT/Cchy-Goursat Theorem.md",
+    "219/CIT/Cauchy's integral formula.md",
+    "219/CIT/(CGT应用）Principle of Deformation of Paths.md",
+    "219/幂级数.md",
+    "219/e的乘法.md",
+    "219/connected",
+    "219/Log & log.md",
+    "219/Limit.md",
+    "219/Curve",
+    "219/Conv. Seq. & Series.md",
+    "219/Cauchy product.md",
+    "219/CIT",
+    "test/未命名.md"
   ]
 }

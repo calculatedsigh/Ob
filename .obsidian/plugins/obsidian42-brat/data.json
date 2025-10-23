@@ -18,6 +18,6 @@
   "debuggingMode": false,
   "notificationsEnabled": true,
   "personalAccessToken": "",
-  "selectLatestPluginVersionByDefault": false,
-  "allowIncompatiblePlugins": false
+  "selectLatestPluginVersionByDefault": true,
+  "allowIncompatiblePlugins": true
 }
